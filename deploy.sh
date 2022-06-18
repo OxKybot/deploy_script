@@ -15,4 +15,4 @@ chmod +x *
 cd ../../..
 catkin_make
 source devel/setup.bash
-roslaunch OxKybot_ros1_brain robot_control_v1.launch
+
